@@ -41,7 +41,6 @@ This application calculates the sentiment of given text and yelp reviews on a 1-
 ```
 pip install -r requirements.txt
 ```
-installing torch might be different depending on your OS etc. so go [here](https://pytorch.org/get-started/locally/) for the command.
 
 Then run this in the same folder where manage.py is and go to http://127.0.0.1:8000/
 ```
