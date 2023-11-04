@@ -1,0 +1,9 @@
+django
+requests
+numpy
+pandas
+BeautifulSoup4
+matplotlib
+torch 
+torchvision 
+torchaudio
